@@ -1,4 +1,8 @@
 ## Hi there 👋
+# 👋 Hi there, I'm Chandu Priya
+
+🎯 **AWS & DevOps Engineer** at Wipro | Bangalore  
+🛠️ Tools: AWS | Git | Linux | Shell Script | Terraform | Ansible | Jenkins | Docker | Kubernetes | Nexus | Helm | Prometheus | Grafana
 
 <!--
 **ChanduPriyaP1/ChanduPriyaP1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
