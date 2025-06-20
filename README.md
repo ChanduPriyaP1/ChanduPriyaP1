@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Hi there, I'm Chandu Priya
 
 🎯 **AWS & DevOps Engineer** at Wipro | Bangalore  
