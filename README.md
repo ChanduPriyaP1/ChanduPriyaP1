@@ -22,13 +22,18 @@
   <img title="Jenkins" src="https://skillicons.dev/icons?i=jenkins" height="40" />
   <img title="Docker" src="https://skillicons.dev/icons?i=docker" height="40" />
   <img title="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" height="40" />
-  <img title="Helm" src="https://skillicons.dev/icons?i=helm" height="40" />
-  <img title="Nexus" src="https://skillicons.dev/icons?i=nexus" height="40" />
+  <!-- Helm badge -->
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" title="Helm" />
+  <!-- Nexus badge -->
+  <img src="https://img.shields.io/badge/Nexus-1B365D?style=for-the-badge&logo=sonatype&logoColor=white" title="Nexus" />
+  <!-- Prometheus -->
   <img title="Prometheus" src="https://skillicons.dev/icons?i=prometheus" height="40" />
   <img title="Grafana" src="https://skillicons.dev/icons?i=grafana" height="40" />
-  <img title="SonarQube" src="https://skillicons.dev/icons?i=sonarqube" height="40" />
+  <!-- SonarQube badge -->
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" title="SonarQube" />
   <img title="Ansible" src="https://skillicons.dev/icons?i=ansible" height="40" />
 </p>
+
 
 ### 📊 GitHub Stats
 
