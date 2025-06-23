@@ -1,20 +1,57 @@
 
-# 👋 Hi there, I'm Chandu Priya
+<h1 align="center">Hi 👋, I'm Puli Chandu Priya</h1>
+<h3 align="center">🚀 DevOps Engineer | AWS & Cloud Enthusiast | Automation Lover</h3>
 
-🎯 **AWS & DevOps Engineer** at Wipro | Bangalore  
-🛠️ Tools: AWS | Git | Linux | Shell Script | Terraform | Ansible | Jenkins | Docker | Kubernetes | Nexus | Helm | Prometheus | Grafana
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+DevOps+Engineer;Loves+Cloud+Infrastructure+%26+Automation;Always+Learning+New+Skills" alt="Typing SVG" />
+</p>
 
-<!--
-**ChanduPriyaP1/ChanduPriyaP1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,bash,terraform,docker,kubernetes,jenkins,ansible,helm,nexus,prometheus,grafana,sonarqube" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandupriya&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandupriya&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 How to reach me
+
+- 📧 Email: `<mail>`
+- 💼 LinkedIn: `<LinkedIn>`
+- 🗂️ Portfolio: *(add if you have one)*
+
+---
+
+### 🌱 Fun Facts & Hobbies
+
+- ⚡ Passionate to learn new automated skills
+- 🧠 Always exploring DevOps trends and tools
+- 🎯 Believer in continuous improvement
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chandupriya&theme=onestar&margin-w=15&row=2&column=3" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandupriya&label=Profile+Views&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandupriya&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
