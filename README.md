@@ -1,5 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Puli Chandu Priya</h1>
+<h1 align="center">
+  Hi there <span>👋</span>, I'm Puli Chandu Priya
+</h1>
+
 <h3 align="center">🚀 DevOps Engineer | AWS & Cloud Enthusiast </h3>
 
 <p align="center">
