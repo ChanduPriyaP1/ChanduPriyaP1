@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Puli Chandu Priya</h1>
-<h3 align="center">🚀 DevOps Engineer | AWS & Cloud Enthusiast | Automation Lover</h3>
+<h3 align="center">🚀 DevOps Engineer | AWS & Cloud Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+DevOps+Engineer;Loves+Cloud+Infrastructure+%26+Automation;Always+Learning+New+Skills" alt="Typing SVG" />
@@ -13,9 +13,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,linux,bash,terraform,docker,kubernetes,jenkins,ansible,helm,nexus,prometheus,grafana,sonarqube" />
 </p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
