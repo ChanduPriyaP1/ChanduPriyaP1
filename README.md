@@ -12,11 +12,24 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<h3 align="center">🛠️ Tools & Technologies I Use</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,bash,terraform,docker,kubernetes,jenkins,ansible,helm,nexus,prometheus,grafana,sonarqube" />
+  <img title="AWS" src="https://skillicons.dev/icons?i=aws" height="40" />
+  <img title="Linux" src="https://skillicons.dev/icons?i=linux" height="40" />
+  <img title="Bash" src="https://skillicons.dev/icons?i=bash" height="40" />
+  <img title="Terraform" src="https://skillicons.dev/icons?i=terraform" height="40" />
+  <img title="Jenkins" src="https://skillicons.dev/icons?i=jenkins" height="40" />
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker" height="40" />
+  <img title="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" height="40" />
+  <img title="Helm" src="https://skillicons.dev/icons?i=helm" height="40" />
+  <img title="Nexus" src="https://skillicons.dev/icons?i=nexus" height="40" />
+  <img title="Prometheus" src="https://skillicons.dev/icons?i=prometheus" height="40" />
+  <img title="Grafana" src="https://skillicons.dev/icons?i=grafana" height="40" />
+  <img title="SonarQube" src="https://skillicons.dev/icons?i=sonarqube" height="40" />
+  <img title="Ansible" src="https://skillicons.dev/icons?i=ansible" height="40" />
 </p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
