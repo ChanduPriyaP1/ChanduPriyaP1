@@ -52,11 +52,12 @@
 
 ---
 
-### 🌱 Fun Facts & Hobbies
+###  Hobbies & Interests
+⚡ Passionate about DevOps and automation
 
-- ⚡ Passionate to learn new automated skills
-- 🧠 Always exploring DevOps trends and tools
-- 🎯 Believer in continuous improvement
+📚 Always learning new tools and technologies
+
+🤖 Interested in Cloud, CI/CD, Monitoring, and Infrastructure as Code
 
 ---
 
