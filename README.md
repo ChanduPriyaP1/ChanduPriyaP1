@@ -52,13 +52,12 @@
 
 ---
 
-###  Hobbies & Interests
-⚡ Passionate about DevOps and automation
+### 🎯 Hobbies & Interests
 
-📚 Always learning new tools and technologies
-
-🤖 Interested in Cloud, CI/CD, Monitoring, and Infrastructure as Code
-
+- ⚙️ Passionate about automation and modern DevOps practices
+- 🐳 Exploring containerization with **Docker**
+- ☸️ Working with **Kubernetes** for orchestration and scaling
+- 🌱 Always eager to learn new cloud-native technologies
 ---
 
 <p align="center">
