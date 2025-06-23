@@ -3,7 +3,7 @@
 <h3 align="center">🚀 DevOps Engineer | AWS & Cloud Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+DevOps+Engineer;Loves+Cloud+Infrastructure+%26+Automation;Always+Learning+New+Skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+To+Learning+Latest Technologies+To+Enhanse+My+Skills+%26+Automation; " alt="Typing SVG" />
 </p>
 
 ---
